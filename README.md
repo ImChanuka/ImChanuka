@@ -1,4 +1,4 @@
-# Hey, 👋
+# Hey,
 I'm Chanuka Dilhara Welcome to My GitHub Profile. I Can  Introduce Myself as Below,
 >* __A Self Learned Game & Web Developer ( Actually Still Learning ; )__
 >* __Open Source Software Developer__
@@ -23,6 +23,7 @@ And I'm Still Learning About These Programming Languages,
 > * __Dart__
 
 And etc.
+<br>
 <br>
 ___Apart from That Things I'm Learning about Anroid app Developing & Unity Game Developing.___
 
