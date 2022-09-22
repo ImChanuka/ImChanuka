@@ -1,6 +1,6 @@
 # Hey,
 I'm Chanuka Dilhara Welcome to My GitHub Profile. I Can  Introduce Myself as Below,
->* __A Self Learned Game & Web Developer ( Actually Still Learning )__
+>* __A Self Learned Game & Web Developer (Actually Still Learning)__
 >* __Open Source Software Developer__
 <br>
 
